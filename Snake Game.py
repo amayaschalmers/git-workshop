@@ -1,10 +1,10 @@
 """
-Snake Eater
+Snake game
 Made with PyGame
 """
 
 import pygame, sys, time, random
-
+# dslkfjasdl 
 
 # Difficulty settings
 # Easy      ->  10
